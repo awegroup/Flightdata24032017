@@ -1,6 +1,6 @@
 # Instrumented kite power system test flight on 24 March 2017
 
-An updated version of this file is maintained on  https://github.com/rschmehl/wes2018
+A static version of this file is deposited on https://dx.doi.org/10.4121/uuid:37264fde-2344-4af2-860c-effda9caa3e8
 
 ## Introduction
 The objective of the test flight was to use a newly developed sensor rig for in situ measurement of the relative flow velocity, both magnitude and direction, at the kite [[1](#Oehler2017)]. The measurements were performed with the 100 kW technology development platform of Kitepower BV, a spin-off company from Delft University of Technology. For this particular test flight, the kite power system was equipped with a Leading Edge Inflatable (LEI) V3 kite with a total wing surface area of 25 m² and a projected area of 19.76 m². The mass of the wing was 11 kg, the mass of the suspended kite control unit (KCU) was 8.4 kg, the mass of the IMU and GPS sensors mounted on the center strut of the wing was 2.4 kg and the mass of the sensor rig for relative flow measurements was 1.0 kg. The traction force was transferred to the ground station by a tether made of Dyneema with a diameter of 4 mm and a line density of 0.013 kg/m. The ground station with 20 kW nominal traction power was used. More details of the configuration of the kite subsystems for this test and the use of the data for aerodynamic characterization of the kite are given in [[2](#Oehler2018b)]. A general description of the kite power system is given in [[3](#Vlugt2013)].
